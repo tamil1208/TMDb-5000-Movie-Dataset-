@@ -8,4 +8,4 @@ The TMDB 5000 Movie Dataset comprises two primary datasets: tmdb_5000_movies and
 # Results:
 By the end of this project, I will have performed a thorough analysis of the movie dataset, including examining changes in film budgets and trends over time, identifying popular languages, and applying feature scaling in preparation for dimensionality reduction techniques. The insights gained will help understand industry trends and predict future film performance, contributing to a data-driven approach in the film industry.
 
-![OIP (1)](https://github.com/user-attachments/assets/3c80ac18-7c74-4a96-8a23-c31498c4780f)
+![dataset-cover (1)](https://github.com/user-attachments/assets/0cf081c9-d5b9-4a27-9388-4c136b666261)
